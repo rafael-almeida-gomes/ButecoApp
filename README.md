@@ -1,2 +1,2 @@
-# ButecoApp
+# MesaApp
 Aplicativo destinado aos bares
